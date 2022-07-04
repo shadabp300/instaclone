@@ -12,5 +12,5 @@ root.render(
   </React.StrictMode>
 );
 
-
+//npm i json server
 //npx json-server --watch Mock-data/data.json --port 3004
